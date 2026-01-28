@@ -9,7 +9,6 @@
 
 var sites = [
   "https://bisexualism.emeowly.gay",
-  "https://emeowly.gay",
   "https://pinkvampyr.leprd.space",
   "https://diffydude.neocities.org",
   "https://macaque.moe",
