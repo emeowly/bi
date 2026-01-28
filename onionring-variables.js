@@ -567,7 +567,7 @@ var ringID = "bisexualism";
 //should the widget include a link to an index page?
 var useIndex = false;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = "https://bisexualism.neocities.org/";
+var indexPage = "https://bisexualism.emeowly.gay/";
 
 //should the widget include a random button?
 var useRandom = false;
